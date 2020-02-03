@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -57,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580771147458</updated>
-      <workItem from="1580771150710" duration="2209000" />
+      <workItem from="1580771150710" duration="2491000" />
     </task>
     <servers />
   </component>
@@ -85,5 +88,9 @@
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state width="981" height="179" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1580773424575" />
+    <state x="0" y="0" key="new project wizard" timestamp="1580773732114">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1024.728@0.0.1024.728" timestamp="1580773732114" />
   </component>
 </project>
